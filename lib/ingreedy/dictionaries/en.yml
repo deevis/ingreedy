@@ -12,21 +12,29 @@
   :gallon:
     - "gal"
     - "gal."
+    - "gals"
+    - "gals."
     - "gallon"
     - "gallons"
   :ounce:
     - "oz"
     - "oz."
+    - "ozs"
+    - "ozs."
     - "ounce"
     - "ounces"
   :pint:
     - "pt"
     - "pt."
+    - "pts"
+    - "pts."
     - "pint"
     - "pints"
   :pound:
     - "lb"
     - "lb."
+    - "lbs"
+    - "lbs."
     - "pound"
     - "pounds"
   :quart:
@@ -39,6 +47,7 @@
   :tablespoon:
     - "tbsp."
     - "tbsp"
+    - "tbsps"
     - "T"
     - "T."
     - "tablespoon"
@@ -48,6 +57,7 @@
   :teaspoon:
     - "tsp."
     - "tsp"
+    - "tsps"
     - "t"
     - "t."
     - "teaspoon"
@@ -62,6 +72,8 @@
   :kilogram:
     - "kg"
     - "kg."
+    - "kgs"
+    - "kgs."
     - "kilogram"
     - "kilograms"
   :liter:
@@ -72,11 +84,13 @@
   :milligram:
     - "mg"
     - "mg."
+    - "mgs"
     - "milligram"
     - "milligrams"
   :milliliter:
     - "ml"
     - "ml."
+    - "mls"
     - "milliliter"
     - "milliliters"
   :pinch:
@@ -132,6 +146,6 @@
   sixty: 60
   seventy: 70
   eighty: 80
-  ninety: 9
+  ninety: 90
 :prepositions:
   - "of"
